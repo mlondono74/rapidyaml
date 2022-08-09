@@ -20,6 +20,8 @@
 #   pragma warning(disable: 4251/*needs to have dll-interface to be used by clients of struct*/)
 #endif
 
+#undef _err
+
 namespace c4 {
 namespace yml {
 
